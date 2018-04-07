@@ -1,0 +1,7 @@
+{
+  "name": "api for testing",
+  "description": "vegetable details",
+  "repository": "https://github.com/ab-anand/api-hack",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["heroku", "natural language"]
+}
