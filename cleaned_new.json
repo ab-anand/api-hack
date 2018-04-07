@@ -1,0 +1,554 @@
+{
+  "masoor_dal": [
+    {
+      "Date": "17-08-06",
+      "Location": "CHANDIGARH",
+      "Commodity": "Masoor Dal",
+      "Price": 38
+    },
+    {
+      "Date": "17-08-06",
+      "Location": "AMRITSAR",
+      "Commodity": "Masoor Dal",
+      "Price": 35
+    },
+    {
+      "Date": "17-08-06",
+      "Location": "LUDHIANA",
+      "Commodity": "Masoor Dal",
+      "Price": 38
+    },
+    {
+      "Date": "17-08-06",
+      "Location": "RAIPUR",
+      "Commodity": "Masoor Dal",
+      "Price": 30
+    },
+    {
+      "Date": "21-08-06",
+      "Location": "CHANDIGARH",
+      "Commodity": "Masoor Dal",
+      "Price": 38
+    },
+    {
+      "Date": "21-08-06",
+      "Location": "AMRITSAR",
+      "Commodity": "Masoor Dal",
+      "Price": 40
+    },
+    {
+      "Date": "21-08-06",
+      "Location": "LUDHIANA",
+      "Commodity": "Masoor Dal",
+      "Price": 38
+    },
+    {
+      "Date": "21-08-06",
+      "Location": "RAIPUR",
+      "Commodity": "Masoor Dal",
+      "Price": 30
+    },
+    {
+      "Date": "22-08-06",
+      "Location": "CHANDIGARH",
+      "Commodity": "Masoor Dal",
+      "Price": 38
+    },
+    {
+      "Date": "22-08-06",
+      "Location": "AMRITSAR",
+      "Commodity": "Masoor Dal",
+      "Price": 38
+    },
+    {
+      "Date": "22-08-06",
+      "Location": "LUDHIANA",
+      "Commodity": "Masoor Dal",
+      "Price": 38
+    },
+    {
+      "Date": "22-08-06",
+      "Location": "RAIPUR",
+      "Commodity": "Masoor Dal",
+      "Price": 30
+    },
+    {
+      "Date": "23-08-06",
+      "Location": "CHANDIGARH",
+      "Commodity": "Masoor Dal",
+      "Price": 38
+    },
+    {
+      "Date": "23-08-06",
+      "Location": "AMRITSAR",
+      "Commodity": "Masoor Dal",
+      "Price": 40
+    },
+    {
+      "Date": "23-08-06",
+      "Location": "LUDHIANA",
+      "Commodity": "Masoor Dal",
+      "Price": 38
+    }
+  ],
+  "rice": [
+    {
+      "Date": "25-11-97",
+      "Location": "DELHI",
+      "Commodity": "Rice",
+      "Price": 10
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "SHIMLA",
+      "Commodity": "Rice",
+      "Price": 12
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "LUCKNOW",
+      "Commodity": "Rice",
+      "Price": 6.5
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "AHMEDABAD",
+      "Commodity": "Rice",
+      "Price": 10
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "BHOPAL",
+      "Commodity": "Rice",
+      "Price": 9
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "MUMBAI",
+      "Commodity": "Rice",
+      "Price": 10
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "JAIPUR",
+      "Commodity": "Rice",
+      "Price": 12
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "BHUBANESHWAR",
+      "Commodity": "Rice",
+      "Price": 7.5
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "KOLKATA",
+      "Commodity": "Rice",
+      "Price": 10.5
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "GUWAHATI",
+      "Commodity": "Rice",
+      "Price": 9
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "SHILLONG",
+      "Commodity": "Rice",
+      "Price": 10
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "AIZWAL",
+      "Commodity": "Rice",
+      "Price": 10
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "AGARTALA",
+      "Commodity": "Rice",
+      "Price": 8.5
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "BENGALURU",
+      "Commodity": "Rice",
+      "Price": 9
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "T.PURAM",
+      "Commodity": "Rice",
+      "Price": 11.5
+    }
+  ],
+  "onion": [
+    {
+      "Date": "01-01-09",
+      "Location": "DELHI",
+      "Commodity": "Onion",
+      "Price": 1025
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "AMRITSAR",
+      "Commodity": "Onion",
+      "Price": 1200
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "LUDHIANA",
+      "Commodity": "Onion",
+      "Price": 1200
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "BHOPAL",
+      "Commodity": "Onion",
+      "Price": 1000
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Onion",
+      "Price": 1000
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "BHUBANESHWAR",
+      "Commodity": "Onion",
+      "Price": 1600
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "BENGALURU",
+      "Commodity": "Onion",
+      "Price": 800
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "AMRITSAR",
+      "Commodity": "Onion",
+      "Price": 1200
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "LUDHIANA",
+      "Commodity": "Onion",
+      "Price": 1200
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Onion",
+      "Price": 1000
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "BHUBANESHWAR",
+      "Commodity": "Onion",
+      "Price": 1600
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "BENGALURU",
+      "Commodity": "Onion",
+      "Price": 800
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "CHENNAI",
+      "Commodity": "Onion",
+      "Price": 1200
+    },
+    {
+      "Date": "05-01-09",
+      "Location": "DELHI",
+      "Commodity": "Onion",
+      "Price": 1150
+    },
+    {
+      "Date": "05-01-09",
+      "Location": "AMRITSAR",
+      "Commodity": "Onion",
+      "Price": 1600
+    }
+  ],
+  "potato": [
+    {
+      "Date": "01-01-09",
+      "Location": "DELHI",
+      "Commodity": "Potato",
+      "Price": 212
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "AMRITSAR",
+      "Commodity": "Potato",
+      "Price": 375
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "LUDHIANA",
+      "Commodity": "Potato",
+      "Price": 300
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "BHOPAL",
+      "Commodity": "Potato",
+      "Price": 350
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Potato",
+      "Price": 170
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "BHUBANESHWAR",
+      "Commodity": "Potato",
+      "Price": 330
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "BENGALURU",
+      "Commodity": "Potato",
+      "Price": 800
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "AMRITSAR",
+      "Commodity": "Potato",
+      "Price": 375
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "LUDHIANA",
+      "Commodity": "Potato",
+      "Price": 300
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Potato",
+      "Price": 170
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "BHUBANESHWAR",
+      "Commodity": "Potato",
+      "Price": 330
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "BENGALURU",
+      "Commodity": "Potato",
+      "Price": 800
+    },
+    {
+      "Date": "02-01-09",
+      "Location": "CHENNAI",
+      "Commodity": "Potato",
+      "Price": 800
+    },
+    {
+      "Date": "05-01-09",
+      "Location": "DELHI",
+      "Commodity": "Potato",
+      "Price": 250
+    },
+    {
+      "Date": "05-01-09",
+      "Location": "AMRITSAR",
+      "Commodity": "Potato",
+      "Price": 300
+    },
+    {
+      "Date": "01-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 600
+    }
+  ],
+  "tomato": [
+    {
+      "Date": "02-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 600
+    },
+    {
+      "Date": "15-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 400
+    },
+    {
+      "Date": "16-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 400
+    },
+    {
+      "Date": "19-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 400
+    },
+    {
+      "Date": "21-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 400
+    },
+    {
+      "Date": "22-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 500
+    },
+    {
+      "Date": "28-01-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 500
+    },
+    {
+      "Date": "02-02-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 500
+    },
+    {
+      "Date": "03-02-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 500
+    },
+    {
+      "Date": "04-02-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 500
+    },
+    {
+      "Date": "17-02-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 500
+    },
+    {
+      "Date": "18-02-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 500
+    },
+    {
+      "Date": "19-02-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 500
+    },
+    {
+      "Date": "20-02-09",
+      "Location": "JAIPUR",
+      "Commodity": "Tomato",
+      "Price": 500
+    }
+  ],
+  "gram_dal": [
+    {
+      "Date": "25-11-97",
+      "Location": "DELHI",
+      "Commodity": "Gram Dal",
+      "Price": 20
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "SHIMLA",
+      "Commodity": "Gram Dal",
+      "Price": 20
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "LUCKNOW",
+      "Commodity": "Gram Dal",
+      "Price": 17
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "AHMEDABAD",
+      "Commodity": "Gram Dal",
+      "Price": 19.5
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "BHOPAL",
+      "Commodity": "Gram Dal",
+      "Price": 18
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "MUMBAI",
+      "Commodity": "Gram Dal",
+      "Price": 22
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "JAIPUR",
+      "Commodity": "Gram Dal",
+      "Price": 18.5
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "BHUBANESHWAR",
+      "Commodity": "Gram Dal",
+      "Price": 20
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "KOLKATA",
+      "Commodity": "Gram Dal",
+      "Price": 21
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "GUWAHATI",
+      "Commodity": "Gram Dal",
+      "Price": 19.5
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "SHILLONG",
+      "Commodity": "Gram Dal",
+      "Price": 20
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "AGARTALA",
+      "Commodity": "Gram Dal",
+      "Price": 21
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "BENGALURU",
+      "Commodity": "Gram Dal",
+      "Price": 20
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "CHENNAI",
+      "Commodity": "Gram Dal",
+      "Price": 20
+    },
+    {
+      "Date": "25-11-97",
+      "Location": "HYDERABAD",
+      "Commodity": "Gram Dal",
+      "Price": 19.5
+    }
+  ]
+}
